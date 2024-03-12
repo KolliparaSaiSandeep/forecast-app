@@ -26,3 +26,8 @@ Runs the model with all the combinations possible within the matrix of coefficie
 
 # 6. Export results
 Export forecast(.csv) : will generate a link to download the dataframe with predictions and confidence intervals.
+
+
+Demo link:
+https://drive.google.com/file/d/1a4Xz8K0GiUOniITVAjgxDdvu4nzHYEab/view?usp=drivesdk 
+
